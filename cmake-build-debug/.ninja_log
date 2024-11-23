@@ -1,3 +1,18 @@
 # ninja log v6
-0	379	1731157750236901740	CMakeFiles/Algorithm_cpp.dir/main.cpp.o	88ee71b30dfdd389
-382	433	1731157750618517275	Algorithm_cpp	9c4fc233bf6b90de
+6	213	1731934424347184722	CMakeFiles/Algorithm_cpp.dir/baekjoon/Value.cpp.o	76f1711b1f042397
+7	57	1731831091493105534	CMakeFiles/Algorithm_cpp.dir/baekjoon/Vector.cpp.o	63bdd7741ada533a
+10	490	1731652519052547622	CMakeFiles/Algorithm_cpp.dir/baekjoon/b10813.cpp.o	a2d3fad2f6ec2595
+8	279	1731653711462790123	CMakeFiles/Algorithm_cpp.dir/baekjoon/Child.cpp.o	59641a956ba77458
+6	476	1731977436786800196	CMakeFiles/Algorithm_cpp.dir/main.cpp.o	88ee71b30dfdd389
+7	438	1731652553828452395	CMakeFiles/Algorithm_cpp.dir/baekjoon/2557.cpp.o	39a531485b73618b
+3	165	1732066278625109512	build.ninja	bc54e21e35f7b06b
+476	521	1731977437255230542	Algorithm_cpp	15f008f2c4e5832a
+5	381	1731157919828023788	CMakeFiles/Algorithm_cpp.dir/backjoon_2557.cpp.o	3cba141e3233f10
+19	3931	1732256101857574765	CMakeFiles/Algorithm_cpp.dir/main.cpp.o	88ee71b30dfdd389
+3931	5715	1732256105770032653	Algorithm_cpp	15f008f2c4e5832a
+8	571	1732256199978494962	CMakeFiles/Algorithm_cpp.dir/main.cpp.o	88ee71b30dfdd389
+571	637	1732256200546427891	Algorithm_cpp	15f008f2c4e5832a
+7	564	1732256310736216991	CMakeFiles/Algorithm_cpp.dir/main.cpp.o	88ee71b30dfdd389
+565	626	1732256311294229965	Algorithm_cpp	15f008f2c4e5832a
+12	3159	1732357368454140425	CMakeFiles/Algorithm_cpp.dir/main.cpp.o	88ee71b30dfdd389
+3159	4956	1732357371601240738	Algorithm_cpp	15f008f2c4e5832a
