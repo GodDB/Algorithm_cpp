@@ -67,6 +67,12 @@ build CMakeFiles/Algorithm_cpp.dir/baekjoon/b10813.cpp.o: CXX_COMPILER__Algorith
   OBJECT_DIR = CMakeFiles/Algorithm_cpp.dir
   OBJECT_FILE_DIR = CMakeFiles/Algorithm_cpp.dir/baekjoon
 
+build CMakeFiles/Algorithm_cpp.dir/baekjoon/b1012.cpp.o: CXX_COMPILER__Algorithm_cpp_unscanned_Debug /Users/beom.93/Algorithm_cpp/baekjoon/b1012.cpp || cmake_object_order_depends_target_Algorithm_cpp
+  DEP_FILE = CMakeFiles/Algorithm_cpp.dir/baekjoon/b1012.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Algorithm_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/Algorithm_cpp.dir/baekjoon
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Algorithm_cpp
@@ -75,7 +81,7 @@ build CMakeFiles/Algorithm_cpp.dir/baekjoon/b10813.cpp.o: CXX_COMPILER__Algorith
 #############################################
 # Link the executable Algorithm_cpp
 
-build Algorithm_cpp: CXX_EXECUTABLE_LINKER__Algorithm_cpp_Debug CMakeFiles/Algorithm_cpp.dir/main.cpp.o CMakeFiles/Algorithm_cpp.dir/baekjoon/2557.cpp.o CMakeFiles/Algorithm_cpp.dir/baekjoon/b10813.cpp.o
+build Algorithm_cpp: CXX_EXECUTABLE_LINKER__Algorithm_cpp_Debug CMakeFiles/Algorithm_cpp.dir/main.cpp.o CMakeFiles/Algorithm_cpp.dir/baekjoon/2557.cpp.o CMakeFiles/Algorithm_cpp.dir/baekjoon/b10813.cpp.o CMakeFiles/Algorithm_cpp.dir/baekjoon/b1012.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.1
   OBJECT_DIR = CMakeFiles/Algorithm_cpp.dir
   POST_BUILD = :

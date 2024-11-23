@@ -8,4 +8,6 @@ add_executable(Algorithm_cpp main.cpp
         baekjoon/2557.h
         baekjoon/b10813.cpp
         baekjoon/b10813.h
+        baekjoon/b1012.cpp
+        baekjoon/b1012.h
 )
